@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 */
 
 class Sum_Any {
-  public static void main(String[] args) throws Exception {
+  public static void main(String[] args) {
     System.out.println("Введите целое число и нажмите Enter");
     System.out.println("************************************");
     BufferedReader bred = new BufferedReader( new InputStreamReader(System.in));
